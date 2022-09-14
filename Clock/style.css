@@ -1,0 +1,9 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: #f6f6f6;
+}
+.clock {
+    color: #f43f5e;
+}
